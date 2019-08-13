@@ -2,3 +2,5 @@ Attendees:
 
 * Kristian Brock
 * Dave
+* edith
+
