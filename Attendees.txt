@@ -10,4 +10,5 @@ Attendees:
 * Mo Salah
 * Boris Johnson
 * simon
+* The Pope
 
